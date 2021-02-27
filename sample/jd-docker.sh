@@ -23,7 +23,7 @@ SHELL_FOLDER=$(pwd)
 CONTAINER_NAME=""
 CONFIG_PATH=""
 LOG_PATH=""
-TAG="gitee"
+TAG="latest"
 NETWORK="host"
 JD_PORT=5678
 
